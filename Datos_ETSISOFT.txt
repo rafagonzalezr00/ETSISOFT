@@ -1,0 +1,11 @@
+Datos:
+------
+- 15 lineas de produccion, 16 puestos de trabajo cada una.
+- En cada puesto debe instalarse un punto de control.
+
+
+Precios:
+--------
+- soporte -> 9.5 euros
+- Horario normal -> 35 euros/h
+- Horas extras -> 30% extra
